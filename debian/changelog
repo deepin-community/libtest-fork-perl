@@ -1,0 +1,29 @@
+libtest-fork-perl (0.02-2.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Tue, 29 Dec 2020 02:13:08 +0100
+
+libtest-fork-perl (0.02-2) unstable; urgency=medium
+
+  * Team upload.
+
+  [ gregor herrmann ]
+  * Strip trailing slash from metacpan URLs.
+
+  [ Salvatore Bonaccorso ]
+  * Update Vcs-Browser URL to cgit web frontend
+
+  [ gregor herrmann ]
+  * Mark package as autopkgtest-able.
+  * Declare compliance with Debian Policy 3.9.6.
+  * Add explicit build dependency on libmodule-build-perl.
+
+ -- gregor herrmann <gregoa@debian.org>  Sat, 06 Jun 2015 18:35:19 +0200
+
+libtest-fork-perl (0.02-1) unstable; urgency=low
+
+  * Initial Release (Closes: #701457).
+
+ -- Olivier Sallou <osallou@debian.org>  Sat, 23 Feb 2013 10:02:12 +0100
